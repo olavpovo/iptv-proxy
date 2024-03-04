@@ -20,7 +20,7 @@ services:
       # Port to expose the IPTVs endpoints
       PORT: 8080
       # Hostname or IP to expose the IPTVs endpoints (for machine not for docker)
-      HOSTNAME: localhost
+      HOSTNAME: testing.info
       GIN_MODE: release
       ## Xtream-code proxy configuration
       XTREAM_USER: 8gY5ypD3SC
